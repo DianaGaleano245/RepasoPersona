@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace RepasoPersona
+namespace RepasoPersona.core
 {
     public class Persona
     {
